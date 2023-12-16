@@ -1,8 +1,8 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-export default function ContactUs() {
+export default function ReusableComponents() {
   return (
-    <div>Contact Us</div>
+    <h1>Reusable Components</h1>
   )
 }

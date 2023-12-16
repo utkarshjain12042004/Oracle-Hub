@@ -1,8 +1,8 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-export default function Home() {
+export default function Profile() {
   return (
-    <div>Home</div>
+    <h1>Profile</h1>
   )
 }
